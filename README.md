@@ -10,7 +10,4 @@
 
 ### 🔝 Top Contributed Repo
 <div align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=DEVOLOPER-1&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true" /> </div>
----
-[![](https://visitcount.itsvg.in/api?id=DEVOLOPER-1&icon=10&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
