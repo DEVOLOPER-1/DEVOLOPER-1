@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+<p align="center">
+  <img src="https://github.com/DEVOLOPER-1/DEVOLOPER-1/blob/main/6da55ecf-debd-4ec8-8f62-f13313f401ee.png" alt="full profile img">
+</p>
 <!--
 **DEVOLOPER-1/DEVOLOPER-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
