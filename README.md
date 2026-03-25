@@ -10,7 +10,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-<sub>SEEKING OPPORTUNITIES BEYOND LIMITS</sub>
+
 
 <br>
 
@@ -45,7 +45,7 @@ to be both rigorous and real.
 <br>
 
 ```
-                        OPEN TO OPPORTUNITIES
+                        SEEKING OPPORTUNITIES BEYOND LIMITS
 ```
 
 <br>
