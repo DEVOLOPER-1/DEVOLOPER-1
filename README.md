@@ -26,11 +26,11 @@ My work spans **information retrieval**, **NLP** (Arabic & English), **computer 
 
 ### Selected Work
 
-**[Video AI Suite](https://github.com/DEVELOPER-1)** &nbsp; Self-supervised colorization (VGG19 + U-Net, WTA diversity loss) with spatio-temporal keyframe extraction — outperforms CLIP-based uniform sampling.
+**[Video AI Suite](https://github.com/DEVOLOPER-1)** &nbsp; Self-supervised colorization (VGG19 + U-Net, WTA diversity loss) with spatio-temporal keyframe extraction — outperforms CLIP-based uniform sampling.
 
-**[Modular RAG Pipeline](https://github.com/DEVELOPER-1)** &nbsp; MoE intent routing, confidence-based escalation, PII redaction, and hallucination evaluation. Won the EVA Hackathon.
+**[Modular RAG Pipeline](https://github.com/DEVOLOPER-1)** &nbsp; MoE intent routing, confidence-based escalation, PII redaction, and hallucination evaluation. 
 
-**[Golden Scarab — Search Engine](https://github.com/DEVELOPER-1)** &nbsp; Bilingual AR/EN search with BERT + BM25 hybrid ranking, autocomplete, and faceted filtering.
+**[Golden Scarab — Search Engine](https://github.com/DEVOLOPER-1)** &nbsp; Bilingual AR/EN search with BERT + BM25 hybrid ranking, autocomplete, and faceted filtering.
 
 **[NetMob25 — Urban Simulation](https://netmob.org/www25/)** &nbsp; Agent-based model simulating social inequality effects during crises across a multimodal transport network. Oral presentation accepted.
 
