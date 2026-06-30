@@ -28,7 +28,7 @@ My work spans **information retrieval**, **NLP** (Arabic & English), **computer 
 
 **[Video AI Suite](https://github.com/DEVOLOPER-1)** &nbsp; Self-supervised colorization (VGG19 + U-Net, WTA diversity loss) with spatio-temporal keyframe extraction — outperforms CLIP-based uniform sampling.
 
-**[Modular RAG Pipeline](https://github.com/DEVOLOPER-1)** &nbsp; MoE intent routing, confidence-based escalation, PII redaction, and hallucination evaluation. 
+**[Modular RAG Pipeline](https://github.com/amr-yasser226/support-ticket-nlp-pipeline)** &nbsp; MoE intent routing, confidence-based escalation, PII redaction, and hallucination evaluation. 
 
 **[Golden Scarab — Search Engine](https://github.com/DEVOLOPER-1)** &nbsp; Bilingual AR/EN search with BERT + BM25 hybrid ranking, autocomplete, and faceted filtering.
 
