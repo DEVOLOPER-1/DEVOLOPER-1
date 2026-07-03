@@ -32,7 +32,7 @@ My work spans **information retrieval**, **NLP** (Arabic & English), **computer 
 
 **[Golden Scarab — Search Engine](https://github.com/DEVOLOPER-1/golden_scarab_swe_mvp)** &nbsp; Bilingual AR/EN search with BERT + BM25 hybrid ranking, autocomplete, and faceted filtering.
 
-**[NetMob25 — Urban Simulation](https://github.com/DEVOLOPER-1/Sim-Equity)** &nbsp; Agent-based model simulating social inequality effects during crises across a multimodal transport network. Oral presentation accepted.
+**[NetMob25 — Urban Simulation](https://github.com/DEVOLOPER-1/SEEM)** &nbsp; Agent-based model simulating social inequality effects during escaping from a crises across a multimodal transport network. Oral presentation accepted.
 
 ---
 
