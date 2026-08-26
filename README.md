@@ -10,7 +10,7 @@ CS · University of Science & Technology, Zewail City &nbsp;
 
 I build ML systems where rigor and deployment aren't in tension — grounded in theory, designed to run.
 
-My work spans **information retrieval**, **NLP** (Arabic & English), **computer vision**, and **agentic AI**. Currently a **Junior Teaching Assistant** at Zewail City. Previously led urban mobility research at Nile University — accepted for **oral presentation at NetMob25**.
+My work spans **information retrieval**, **NLP** (Arabic & English), **computer vision**, and **agentic AI**. Previously a **Junior Teaching Assistant** at Zewail City. Previously led urban mobility research at Nile University — accepted for **oral presentation at NetMob25**.
 
 ---
 
