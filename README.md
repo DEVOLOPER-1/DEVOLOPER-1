@@ -1,6 +1,6 @@
 # Youssef Mohammad
 
-CS · University of Science & Technology, Zewail City &nbsp;
+CS Senior · University of Science & Technology, Zewail City &nbsp;
 
 [bio.site/youssef_mohammad](https://bio.site/youssef_mohammad)
 
